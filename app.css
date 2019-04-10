@@ -110,7 +110,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #f9a62b;
 }
 
-.firmwareTableLink {
+.firmwareTableLink, .oldFirmwareLink {
+  clear: right;
   float:right;
   color: #337ab7;
   cursor: pointer;
@@ -306,4 +307,16 @@ h1, h2, h3, h4, h5, h6 {
 #wizard .imagePreview .preview span {
   display: block;
   margin: auto 0.5em;
+}
+
+img.center {
+  display: block;
+  margin: auto;
+}
+
+.warning {
+  border: 4px solid #f92b2b;
+  background: #f89191;
+  padding: 10px;
+  color: #000;
 }
