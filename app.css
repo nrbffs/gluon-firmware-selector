@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #firmwareTable h1 {
-  color: #dc0067;
+  color: #f9a62b;
 }
 
 .firmwareTableLink {
@@ -132,11 +132,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #wizard #model-pane {
-  border-left: 3px solid #dc0067;
+  border-left: 3px solid #f9a62b;
 }
 
 #wizard #model-pane h1 {
-  color: #dc0067;
+  color: #f9a62b;
 }
 
 #wizard #model-pane input {
@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #wizard select.invalid {
-  border: 1px solid #dc0067;
+  border: 1px solid #f9a62b;
   box-shadow: 0.125em 0.125em 0.5em rgba(219, 0, 102, 0.125);
 }
 
